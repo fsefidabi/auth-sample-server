@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_test_testings",
+  "info": {
+    "name": "testing",
+    "icon": "align-right",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "kind": "collectionType",
+  "collectionName": "onlines",
+  "info": {
+    "name": "Online",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "Status": {
+      "type": "string"
+    },
+    "services": {
+      "collection": "service",
+      "via": "onlines",
+      "dominant": true
+    }
+  }
+}

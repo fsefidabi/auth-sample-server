@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_test_archives",
+  "info": {
+    "name": "Archive",
+    "icon": "archive"
+  },
+  "options": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    },
+    "Date": {
+      "type": "date"
+    }
+  }
+}

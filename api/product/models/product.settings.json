@@ -27,6 +27,11 @@
     },
     "price": {
       "type": "integer"
+    },
+    "testing": {
+      "type": "component",
+      "repeatable": false,
+      "component": "test.testing"
     }
   }
 }
